@@ -36,6 +36,7 @@ Testing Scenario 5 - Dealing with different subspaces
 
 ## Authors:
 Scripts 1 to 13 and 15 were written by B. Ristic.
+
 Script 14 was written by A. Benavoli
 
 ## References
